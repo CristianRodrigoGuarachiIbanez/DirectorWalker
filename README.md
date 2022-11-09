@@ -18,7 +18,7 @@ In order to run this implemtation, the header file <experimental/filesystem> par
 
 Consequently, the cpp file should be linked with **-lstdc++fs**  at compilation time.
 
-The OpenCV Library should also be installed und liked.
+The OpenCV Library should also be installed und liked [see the documentation](https://docs.opencv.org/4.x/d2/de6/tutorial_py_setup_in_ubuntu.html).
 
 ## Run
 
