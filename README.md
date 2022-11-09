@@ -1,6 +1,7 @@
 # Directory Walker 
 
 This is a simple implementation of a programm test in Linux 18, which collects all file names inside a directory. Once collected, the file names could be sorted according to a extension, if desiered. 
+
 ```cpp
     DirWalker dirWalker("paht/to/file", ".png", 4);
 ```
